@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "date": "2007-01-02",
+        "weather":"rainy",
+        "visibility":"poor",
+        "comment": "Pretty scary fligth"
+    },
+    {
+        "id": 2,
+        "date": "2007-03-02",
+        "weather":"sunny",
+        "visibility":"good",
+        "comment": "Everything ok"
+    },
+    {
+        "id": 3,
+        "date": "2007-05-02",
+        "weather":"stormy",
+        "visibility":"poor",
+        "comment": "Cancel de the fligth"
+    },
+    {
+        "id": 4,
+        "date": "2007-07-02",
+        "weather":"windy",
+        "visibility":"ok",
+        "comment": "Good"
+    }
+]
